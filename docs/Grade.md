@@ -4,11 +4,11 @@
 
 - ID: Int
 - Date:	DateTime	 
-- Student:  [Student](https://github.com/"Объект классаStudent")
+- [Student](./docs/Student.md "Класс Student")
 - Grade: Int	
-- Timetable:  [Timetable](https://github.com/ "Объект класса Timetable")
-- Course: [Course](https://github.com/ "Объект класса Course")
-- Theme:  [Theme](https://github.com/ "Объект класса Theme")
+- [Timetable](./docs/Timetable.md "Класс Timetable")
+- Course: [Course](./docs/Course.md "Класс Course")
+- Theme:  [Theme](./docs/Theme.md "Класс Theme")
 - EditDate: DateTime
 - DelDate: DateTime
 
@@ -17,10 +17,10 @@
 
 - ID: Int - идентификатор в БД
 - Date:	DateTime	 - дата оценки
-- Student:  [Student](https://github.com/ "Объект класса Student") - ученик
+- Student:  [Student](./docs/Student.md "Класс Student") - ученик
 - Grade: Int - оценка	
-- Timetable:  [Timetable](https://github.com/ "Объект класса Timetable") - конкретное занятие, элемент расписания
-- Course: [Course](https://github.com/ "Объект класса Course") - курс
-- Theme:  [Theme](https://github.com/ "Объект класса Theme") - тема, за которую поставлена оценка
+- [Timetable](./docs/Timetable.md "Класс Timetable") - конкретное занятие, элемент расписания
+- Course: [Course](./docs/Course.md "Класс Course") - курс
+- Theme:  [Theme](./docs/Theme.md "Класс Theme") - тема, за которую поставлена оценка
 - EditDate: DateTime - дата редактирования данных в БД
 - DelDate: DateTime - дата удаления данных из БД

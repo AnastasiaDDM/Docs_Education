@@ -6,10 +6,10 @@
 
 - ID: Int
 - Date: DateTime
-- Student: [Student](https://github.com/ "Объект класса Student")
-- Branch:  [Branch](https://github.com/"Объект класса Branch")
-- Manager: [Worker](https://github.com/"Объект класса Worker")
-- Course:  [Course](https://github.com/ "Объект класса Course")
+- Student: [Student](./docs/Student.md "Класс Student")
+- Branch:  [Branch](./docs/Branch.md "Класс Branch")
+- Manager: [Worker](./docs/Worker.md "Класс Worker")
+- Course:  [Course](./docs/Course.md "Класс Course")
 - Cost: Double
 - PayofMonth: Double
 - EditDate: DateTime
@@ -21,10 +21,10 @@
 
 - ID: Int - идентификатор в БД
 - Date: DateTime - дата заключения договора
-- Student: Student [Student](https://github.com/ "Объект класса Student") - ученик, с которым заключен договор
-- Branch:  [Branch](https://github.com/ "Объект класса Branch") - филиал, в котором договор заключен
-- Manager: [Worker](https://github.com/ "Объект класса Worker") - менеджер, который заключил этот договор
-- Course:  [Course](https://github.com/ "Объект класса Course") - курс, для которого заключен договор
+- Student: [Student](./docs/Student.md "Класс Student") - ученик, с которым заключен договор
+- Branch:  [Branch](./docs/Branch.md "Класс Branch") - филиал, в котором договор заключен
+- Manager: [Worker](./docs/Worker.md "Класс Worker") - менеджер, который заключил этот договор
+- Course:  [Course](./docs/Course.md "Класс Course") - курс, для которого заключен договор
 - Cost: Double - стоимость за все обучение на этом курсе
 - PayofMonth: Double - цена за месяц
 - EditDate: DateTime - дата редактирования данных в БД

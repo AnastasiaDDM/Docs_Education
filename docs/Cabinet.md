@@ -4,7 +4,7 @@
 
 - ID: Int
 - Number: String
-- Branch:  [Branch](https://github.com/ "Объект класса Branch")
+- Branch:  [Branch](./docs/Branch.md "Класс Branch")
 - Capacity: Int
 - EditDate: DateTime
 - DelDate: DateTime
@@ -14,7 +14,7 @@
 
 - ID: Int - идентификатор в БД
 - Number: String - номер кабинета 
-- Branch: [Branch](https://github.com/ "Объект класса Branch") -  филиал, в котором находится кабинет
+- Branch: [Branch](./docs/Branch.md "Класс Branch") -  филиал, в котором находится кабинет
 - Capacity: Int - вместимость кабинета
 - EditDate: DateTime - дата редактирования данных в БД
 - DelDate: DateTime - дата удаления данных из БД
