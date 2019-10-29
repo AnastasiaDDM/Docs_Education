@@ -5,7 +5,7 @@
 - ID: Int 
 - Name: String
 - Address: String
-- DirectorBranch: [Worker](./docs/Worker.md "Класс Worker")
+- DirectorBranch: [Worker](./Worker.md "Класс Worker")
 - EditDate:	DateTime
 - DelDate:	DateTime
 
