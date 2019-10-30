@@ -1,5 +1,5 @@
 # Описание интерфейса IWorker
-Интерфейс предназначен для работы с методами класса [Worker](https://github.com/saramampco/oop/blob/master/docs/Client.md)
+Интерфейс предназначен для работы с методами класса [Worker](./Worker.md "Класс Worker")
 
 ## Реализация интерфейса
 

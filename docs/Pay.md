@@ -4,8 +4,8 @@
 
 - ID: Int
 - Indicator: Boolean
-- Contract:  [Contract](https://github.com/ "Объект класса Contract")
-- Worker: [Worker](https://github.com/ "Объект класса Worker")
+- Contract:  [Contract](./Contract.md "Класс Contract")
+- Worker: [Worker](./Worker.md "Класс Worker")
 - Date: DateTime
 - Payment: Double
 - EditDate: DateTime
@@ -18,8 +18,8 @@
 
 - ID: Int - идентификатор в БД
 - Indicator: Boolean - указывает на тип договора ( true - оплата договора учеником, false - оплата зарплаты преподавателю
-- Contract:  [Contract](https://github.com/ "Объект класса Contract") - договор, по которому производится оплата
-- Worker: [Worker](https://github.com/ "Объект класса Worker") - работник, которому выплачивается зарплата
+- Contract:  [Contract](./Contract.md "Класс Contract") - договор, по которому производится оплата
+- Worker: [Worker](./Worker.md "Класс Worker") - работник, которому выплачивается зарплата
 - Date: DateTime - дата произведения оплаты
 - Payment: Double - количество внесенной оплаты
 - EditDate: DateTime - дата редактирования данных в БД

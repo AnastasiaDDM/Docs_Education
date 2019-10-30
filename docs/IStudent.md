@@ -1,5 +1,5 @@
 # Описание интерфейса IStudent
-Интерфейс предназначен для работы с методами класса [Student](https://github.com/saramampco/oop/blob/master/docs/Client.md)
+Интерфейс предназначен для работы с методами класса [Student](./Student.md "Класс Student")
 
 ## Реализация интерфейса
 

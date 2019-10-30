@@ -1,5 +1,5 @@
 # Описание интерфейса IGrade
-Интерфейс предназначен для работы с методами класса [Grade](https://github.com/saramampco/oop/blob/master/docs/Client.md)
+Интерфейс предназначен для работы с методами класса [Grade](./Grade.md "Класс Grade")
 
 ## Реализация интерфейса
 

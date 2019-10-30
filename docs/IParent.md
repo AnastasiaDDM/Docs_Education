@@ -1,5 +1,5 @@
 # Описание интерфейса IParent
-Интерфейс предназначен для работы с методами класса [Parent](https://github.com/saramampco/oop/blob/master/docs/Client.md)
+Интерфейс предназначен для работы с методами класса [Parent](./Parent.md "Класс Parent")
 
 ## Реализация интерфейса
 

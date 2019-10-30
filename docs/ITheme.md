@@ -1,5 +1,5 @@
 # Описание интерфейса ITheme
-Интерфейс предназначен для работы с методами класса [Theme](https://github.com/saramampco/oop/blob/master/docs/Client.md)
+Интерфейс предназначен для работы с методами класса [Theme](./Theme.md "Класс Theme")
 
 ## Реализация интерфейса
 

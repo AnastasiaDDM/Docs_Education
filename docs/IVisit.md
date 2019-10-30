@@ -1,5 +1,5 @@
 # Описание интерфейса IVisit
-Интерфейс предназначен для работы с методами класса [Visit](https://github.com/saramampco/oop/blob/master/docs/Client.md)
+Интерфейс предназначен для работы с методами класса [Visit](./Visit.md "Класс Visit")
 
 ## Реализация интерфейса
 

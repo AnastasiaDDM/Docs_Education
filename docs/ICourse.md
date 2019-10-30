@@ -1,5 +1,5 @@
 # Описание интерфейса ICourse
-Интерфейс предназначен для работы с методами класса [Course](https://github.com/saramampco/oop/blob/master/docs/Client.md)
+Интерфейс предназначен для работы с методами класса [Course](./Course.md "Класс Course")
 
 ## Реализация интерфейса
 

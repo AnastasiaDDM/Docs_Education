@@ -1,5 +1,5 @@
 # Описание интерфейса ICabinet
-Интерфейс предназначен для работы с методами класса [Cabinet](https://github.com/saramampco/oop/blob/master/docs/Client.md)
+Интерфейс предназначен для работы с методами класса [Cabinet](./Cabinet.md "Класс Cabinet")
 
 ## Реализация интерфейса
 

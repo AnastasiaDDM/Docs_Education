@@ -4,10 +4,10 @@
 
 - ID: Int
 - Date:	DateTime	 
-- Student:  [Student](https://github.com/"Объект класса Student") 
+- Student:  [Student](./Student.md "Класс Student")
 - Visit: Bool	
-- Timetable:  [Timetable](https://github.com/"Объект класса Timetable") 
-- Course: [Course](https://github.com/ "Объект классаCourse") 
+- Timetable:  [Timetable](./Timetable.md "Класс Timetable")
+- Course: [Course](./Course.md "Класс Course")
 - EditDate: DateTime
 - DelDate: DateTime
 
@@ -16,9 +16,9 @@
 
 - ID: Int - идентификатор в БД
 - Date: DateTime - дата посещения	 
-- Student:  [Student](https://github.com/ "Объект класса Student") - ученик
+- Student:  [Student](./Student.md "Класс Student") - ученик
 - Visit: Bool - true - ученик был на занятии, false	- отсутствие
-- Timetable:  [Timetable](https://github.com/ "Объект класса Timetable") - конкретное занятие (элемент расписания)
-- Course: [Course](https://github.com/ "Объект классаCourse") - курс
+- Timetable:  [Timetable](./Timetable.md "Класс Timetable") - конкретное занятие (элемент расписания)
+- Course: [Course](./Course.md "Класс Course") - курс
 - EditDate: DateTime - дата редактирования данных в БД
 - DelDate: DateTime - дата удаления данных из БД

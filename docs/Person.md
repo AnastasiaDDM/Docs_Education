@@ -1,6 +1,6 @@
 # Описание класса Person
     
-Класс Person является предком классов Worker [Worker](https://github.com/"Объект класса Worker"), Parent Worker](https://github.com/"Объект класса Worker"),и StudentWorker](https://github.com/"Объект класса Worker"),.
+Класс Person является предком классов [Worker](./Worker.md "Класс Worker"),[Parent](./Parent.md "Класс Parent") и [Student](./Student.md "Класс Student") .
 
 ## Атрибуты
 

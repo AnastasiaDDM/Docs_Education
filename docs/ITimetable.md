@@ -1,5 +1,5 @@
 # Описание интерфейса ITimetable
-Интерфейс предназначен для работы с методами класса [Timetable](https://github.com/saramampco/oop/blob/master/docs/Client.md)
+Интерфейс предназначен для работы с методами класса [Timetable](./Timetable.md "Класс Timetable")
 
 ## Реализация интерфейса
 

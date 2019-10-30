@@ -1,5 +1,5 @@
 # Описание интерфейса IBranch
-Интерфейс предназначен для работы с методами класса [Branch](https://github.com/saramampco/oop/blob/master/docs/Client.md)
+Интерфейс предназначен для работы с методами класса [Branch](./Branch.md "Класс Branch")
 
 ## Реализация интерфейса
 
